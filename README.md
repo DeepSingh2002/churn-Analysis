@@ -1,1 +1,2 @@
 # churn-Analysis
+Churn analysis, often utilized in industries like telecommunications, finance, subscription-based services, and more, refers to the process of analyzing customer attrition or churn. Churn represents the rate at which customers stop doing business with a company over a specified period. The goal of churn analysis is to understand why customers are leaving and to develop strategies to reduce churn rates.
